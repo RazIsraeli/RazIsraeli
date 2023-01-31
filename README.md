@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RazIsraeli](https://github.com/RazIsraeli)
 
-- 📝 I regularly write articles on Self development, Personal growth
+- 📝 I occasionally write articles on Self development, Personal growth
 
 - 💬 Ask me about **react, vue, angular, node.js**
 
