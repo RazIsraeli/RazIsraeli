@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raz Israeli</h1>
 <h3 align="center">A full stack web developer and a product manager</h3>
 
-- 🔭 I’m currently working on creating a **Netflix-like movies app. Will share the repo soon here (...)**
+- 🔭 I’m currently working on creating a **Netflix-like movies app. Will share the repo/project url soon here (...)**
 
 - ✅ Previously worked on:
     - 🔭 **airgnb - a room rental marketplace based on airbnb (https://airgnb.onrender.com)**
