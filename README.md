@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Raz Israeli</h1>
 <h3 align="center">A full stack web developer and a product manager</h3>
 
-- 🔭 I’m currently working on **airgnb - a room rental marketplace based on airbnb (https://airgnb.onrender.com)**
-- 🔭 I’m also currently working on **angular-pets-rxjs-practice (https://razisraeli.github.io/pets-angular-rxjs-practice/#/)**
-    in order to strengthen and improve the way I understand and develop apps while using angular and rxjs.
+- 🔭 I’m currently working on creating a **Netflix-likemovies app. Will share the repo soon here (...)**
+
+- ✅ Previously worked on:
+    - 🔭 **airgnb - a room rental marketplace based on airbnb (https://airgnb.onrender.com)**
+    - 🔭 **angular-pets-rxjs-practice (https://razisraeli.github.io/pets-angular-rxjs-practice/#/)**
+        in order to strengthen and improve the way I understand and develop apps while using angular and rxjs.
 
 - 👨‍💻 All of my projects are available at [https://github.com/RazIsraeli](https://github.com/RazIsraeli)
 
