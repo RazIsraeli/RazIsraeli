@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Raz Israeli</h1>
 <h3 align="center">A full stack web developer and a product manager</h3>
 
-- 🔭 I’m currently working on creating a **Netflix-like movies app. Will share the repo/project url soon here (...)**
+- 🔭 I’m currently taking some udemy courses to improve my ux/ui understanding and capabilities. Will upload projects here soon! :)
 
 - ✅ Previously worked on:
     - 🔭 **airgnb - a room rental marketplace based on airbnb (https://airgnb.onrender.com)**
     - 🔭 **angular-pets-rxjs-practice (https://razisraeli.github.io/pets-angular-rxjs-practice/#/)**
         in order to strengthen and improve the way I understand and develop apps while using angular and rxjs.
+    - 🔭 **Netflex - a movies library app based on Netflix design.** 
+        Created with this instructions video: https://www.youtube.com/watch?v=H9z8jttAlRU 
+        **Available here: https://airgnb.onrender.com**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RazIsraeli](https://github.com/RazIsraeli)
 
