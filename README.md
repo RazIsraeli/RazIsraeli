@@ -7,9 +7,7 @@
     - 🔭 **airgnb - a room rental marketplace based on airbnb (https://airgnb.onrender.com)**
     - 🔭 **angular-pets-rxjs-practice (https://razisraeli.github.io/pets-angular-rxjs-practice/#/)**
         in order to strengthen and improve the way I understand and develop apps while using angular and rxjs.
-    - 🔭 **Netflex - a movies library app based on Netflix design.** 
-        Created with this instructions video: https://www.youtube.com/watch?v=H9z8jttAlRU 
-        **Available here: https://airgnb.onrender.com**
+    - 🔭 **Netflex - a movies library app based on Netflix design (https://airgnb.onrender.com)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RazIsraeli](https://github.com/RazIsraeli)
 
