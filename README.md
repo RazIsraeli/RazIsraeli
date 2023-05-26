@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raz Israeli</h1>
 <h3 align="center">A full stack web developer and a product manager</h3>
 
-- 🔭 I’m currently taking some udemy courses to improve my ux/ui understanding and capabilities. Will upload projects here soon! :)
+- 🔭 I’m currently working on Natours - example tours company website with advanced scss and design. - (https://razisraeli.github.io/natours/)
 
 - ✅ Previously worked on:
     - 🔭 **airgnb - a room rental marketplace based on airbnb (https://airgnb.onrender.com)**
