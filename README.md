@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raz Israeli</h1>
 <h3 align="center">A full stack web developer and a product manager</h3>
 
-- 🔭 I’m working on **Angular Testing - Masterclass Udemy course for testing angular 16 apps**.
+- 🔭 I’m working on **Angular Testing - Masterclass Udemy course for testing angular 16 apps** to improve my software testing abilities.
 
 - ✅ Previously worked on:
     - 🔭 **Natours - example tours company website** with advanced scss and design (https://razisraeli.github.io/natours)**
