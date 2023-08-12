@@ -5,7 +5,7 @@
 
 - ✅ Previously worked on:
     - 🔭 **Natours - example tours company website** with advanced scss and design (https://razisraeli.github.io/natours)**
-    - 🔭 **Netflex - a movies library app based on Netflix design (https://airgnb.onrender.com)**
+    - 🔭 **Netflex - a movies library app based on Netflix design (https://razisraeli.github.io/netflex)**
     - 🔭 **angular-pets-rxjs-practice (https://razisraeli.github.io/pets-angular-rxjs-practice/#/)**
         in order to strengthen and improve the way I understand and develop apps while using angular and rxjs.
     - 🔭 **airgnb - a room rental marketplace based on airbnb (https://airgnb.onrender.com)**
