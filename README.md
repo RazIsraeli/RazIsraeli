@@ -4,6 +4,8 @@
 - 🔭 I’m working on a react + node.js e2e application for a non-profit organization - more information later on!.
 
 - ✅ Previously worked on:
+    - 🔭 **Angular Signals In Depth - Building Modern Angular 18 applications with the new Signals API** to stay up to date with angular 18 and signals.
+    - 🔭 **React - The Complete Guide 2024 (incl. Next.js, Redux)** to sharpen my react skills and stay up do date with the frameworks latest updates and best practices.
     - 🔭 **Angular Testing - Masterclass Udemy course for testing angular 17 apps** to improve my software testing abilities.
     - 🔭 **Natours - example tours company website** with advanced scss and design (https://razisraeli.github.io/natours)**
     - 🔭 **Netflex - a movies library app based on Netflix design (https://razisraeli.github.io/netflex)**
